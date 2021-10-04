@@ -1,5 +1,5 @@
 ### Hi there🦉
-![ihabbou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihabbou&hide=contribs,prs&show_icons=true&count_private=true&theme=midnight-purple)
+[![ihabbou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihabbou&hide=contribs,prs&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/ihabbou)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihabbou&theme=midnight-purple)](https://github.com/ihabbou)
 
