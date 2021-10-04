@@ -8,6 +8,7 @@
 
 Here are some ideas to get you started:
 https://www.youtube.com/watch?v=ECuqb5Tv9qI
+https://github.com/anuraghazra/github-readme-stats
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
