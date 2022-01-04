@@ -1,7 +1,7 @@
 ### Hi there🦉
 [![ihabbou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihabbou&hide=contribs,prs&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/ihabbou)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihabbou&theme=midnight-purple)](https://github.com/ihabbou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihabbou&exclude_repo=visual-relationship-caption,TableStructNet&theme=midnight-purple)](https://github.com/ihabbou)
 
 <!--
 **ihabbou/ihabbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
